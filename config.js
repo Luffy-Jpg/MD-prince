@@ -1,10 +1,10 @@
-//═══════[© 2022 prince Bot Inc.]════════\\
+//═══════[© 2024 Jeff Bot Inc.]════════\\
 
 //~you can re-upload but tag my channel
 //or put my channel link in the description.
 //~you can recode or copy the codes but give
 //credit.
-//~Thank you to LORD BUDDHA, ME AND MY 
+//~Thank you LORD, ME AND MY 
 //FAMILY.
 
 //═══════[modules]════════\\
@@ -22,14 +22,14 @@ global.APIKeys = {
 }
 
 //═══════[modification]════════\\
-global.owner = ['918590565968','919446652312'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
-global.pemilik = ['918590565968'] //another owner number
-global.premium = ['918590565968'] //premium number
-global.pengguna = 'prince' //username
-global.botnma = 'MD-prince' //bot name
-global.ownernma = 'prince ser' //owner name
-global.packname = 'MD-prince' //sticker package name
-global.author = 'By prince' //sticker author name
+global.owner = ['917090462940','918431403667'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
+global.pemilik = [''] //another owner number
+global.premium = ['917090462940','923002166588','923168296157'] //premium number
+global.pengguna = 'RDJ-JEFF' //username
+global.botnma = 'RDJ-JENNIE' //bot name
+global.ownernma = 'Jennie ✨' //owner name
+global.packname = 'RDJ-Jennie' //sticker package name
+global.author = 'By Jeff' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '⭔' //design
